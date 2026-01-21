@@ -1,5 +1,0 @@
-Parameter,Distribution,Low,Mean,High,Units,
-Ridership Increase,Triangular,0.05,0.15,0.35,Percent,Observed in fare-free pilots
-Cost Inflation,Normal,0.015,0.03,0.045,Percent,Recent CPI Range
-Service Scaling Factor,Normal,0.2,0.4,0.6,Ratio,Partial Capacity Response
-Revenue Uncertainty,Normal,-0.05,0,0.05,Percent,Budget Forecasting Noise
