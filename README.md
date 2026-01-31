@@ -1,9 +1,9 @@
 # Can NYC Afford Fare-Free Bus Transit?
 
 ## Overview
-This project evaluates the financial feasibility of implementing **fare-free bus transit** using a **Monte Carlo simulation**. Rather than relying on a single point estimate, the analysis quantifies the **distribution of possible budget outcomes** under uncertainty in ridership response, operating costs, and funding replacement strategies.
+This project evaluates the financial feasibility of implementing **fare-free bus transit**, using a **Monte Carlo simulation**. Rather than relying on a single point estimate, the analysis calculates the **distribution of possible budget outcomes** under uncertainty in ridership, operating costs, and funding replacement strategies.
 
-The goal is to answer the question:
+The goal is to ultimately answer the question:
 
 > *If NYC eliminates bus fares, what is the probability of running a budget deficit, and how large would the required subsidy be under different funding scenarios?*
 
@@ -118,4 +118,5 @@ Potential extensions of this analysis include:
 ## Final Insight
 **Fare-free transit requires planning for sustained operational subsidies.**  
 Quantifying not just expected costs, but downside risk, is essential for future informed decision making.
+
 
