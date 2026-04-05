@@ -1,0 +1,7 @@
+City,Year,Ridership_Before,Ridership_After,Pct_Change,Notes
+Kansas City MO,2020,10300000,12900000,0.252,Full system fare-free Jan 2020
+Tallahassee FL,2020,7200000,8100000,0.125,Free fares during COVID pilot
+Olympia WA,2020,2100000,2520000,0.200,Intercity Transit fare-free
+Hasselt Belgium,1997,990000,1285000,0.298,Reversed in 2013
+Luxembourg,2020,21000000,25200000,0.200,National fare-free rail+bus
+Dunkirk France,2018,4800000,6240000,0.300,Largest French fare-free city
